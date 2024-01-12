@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Manish Nepali
 - 👀 I’m interested in programming and learning new things
 - 🌱 I’m currently learning vue.js
-- 
--
+
 
 <!---
 nepmanisnepmanish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
