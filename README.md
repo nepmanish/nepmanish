@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nepmanish
 - 👀 I’m interested in programming and learning new things
 - 🌱 I’m currently learning vue.js
-- 💞️ I’m looking to collaborate with that person who is thinking like me
+- 💞️ I’m looking to collaborate with that person who thinking like me
 - ⚡ Fun fact: nothing
 
 <!---
