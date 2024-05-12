@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Manish Nepali
-- 👀 I’m interested in programming and learning new things
-- 🌱 I’m currently learning vue.js
 
 
 <!---
